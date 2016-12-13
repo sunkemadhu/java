@@ -38,7 +38,7 @@ public class AddNum {
 
     public static void main(String args[]) throws IOException {
         AddNum obj = new AddNum();
-        int sum = obj.addNum(10, 20);
+        int sum = obj.addNum(10, 30);
 
         System.out.println("Sum of 10 and 20 is :" + sum);
     }
